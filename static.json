@@ -1,7 +1,0 @@
-{
-  "root": "build/",
-  "routes": {
-    "/zalo_verifierETsiBIBK018IgeiHqfiTJocId7l5sKWbCJSt.html": "zalo_verifierETsiBIBK018IgeiHqfiTJocId7l5sKWbCJSt.html",
-    "/**": "index.html"
-  }
-}
